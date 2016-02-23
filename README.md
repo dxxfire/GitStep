@@ -9,3 +9,6 @@
 - 提交已加载（staged）的文件 git commit -m "注释"
 - 检查当前已加载（staged）和未加载（unstaged）文件的状态、提交等情况：git status
 - 推送到远程代码库 git remote add origin https://your_username@bitbucket.org/your_username/name_of_remote_repository.git
+
+## 分支
+> 准备创建分支
