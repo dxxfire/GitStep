@@ -17,3 +17,7 @@
  - 两个命令也可以合成为一个命令：
  - git checkout -b branchName
  - 查看项目下所有分支：git branch
+- 分支下可以再建分支
+- 合并分支
+ - 切换到要合并入的主干分支
+ - git merge 被合并的分支
