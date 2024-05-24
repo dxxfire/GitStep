@@ -24,4 +24,4 @@
 - 下载远程仓库的分支
   - git clone -b 分支名称 仓库地址
 - 推送本地分支到远程
-  - 
+  - git push origin branchStep:branchStep
